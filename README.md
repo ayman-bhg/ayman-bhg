@@ -1,9 +1,9 @@
-<div align="right" width="100%">
-  <br>
- 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C0FF&width=600&lines=Hey+I'm+Ayman+!;Full+Stack+Developer;react+%7C+Tailwind+%7C+Node.js;Turning+Ideas+Into+Digital+Reality)](https://git.io/typing-svg)
- <br>
-</div>
+<p align="right">
+  <img style="display:block;margin:auto" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C0FF&width=600&lines=Hey+I'm+Ayman+!;Full+Stack+Developer;react+%7C+Tailwind+%7C+Node.js;"/>
+</p>
+
+
+
 
 <!-- 
  ![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00C0FF&height=120&section=header&text=Welcome%20to%20my%20Profile!%20🌊&fontSize=25&fontColor=fff&animation=twinkling)
