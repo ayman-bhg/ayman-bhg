@@ -1,27 +1,11 @@
+<div align="center">
+ 
+  ![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00C0FF&height=120&section=header&text=Welcome%20to%20my%20Profile!%20🌊&fontSize=25&fontColor=fff&animation=twinkling)
 
+</div>
 
-<!--
-**ayman-bhg/ayman-bhg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayman-bhg&show_icons=true&theme=radical)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ayman.bhg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayman_bhg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhgayman1@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayman_bhg)
--->
-
-
-<h1 align="center">hey there 👋</h1>
 
 ###
-
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
@@ -33,9 +17,13 @@ Here are some ideas to get you started:
 ### 🌐 Socials:
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayman_bhg)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ayman.bhg)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhgayman1@email.com)
+<div align="center">
+
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayman_bhg)
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ayman.bhg)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhgayman1@email.com)
+  
+</div>
 
 
 ###
@@ -70,13 +58,17 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats :
 <div align="center">
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayman-bhg&layout=compact&theme=tokyonight)
   
   ![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayman-bhg&show_icons=true&theme=transparent)
 
-  ![](https://komarev.com/ghpvc/?username=ayman-bhg&label=Profile+Views&color-blue)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayman-bhg&layout=compact&theme=tokyonight)
+  
+
+  
+
+
   
   
 </div>
 
-###
+
