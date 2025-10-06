@@ -74,12 +74,13 @@
 
 <hr>
 
-<div align="right">
+<div align="left">
 
 
 
-  <!-- ✨ Outro Section -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C0FF&width=600&lines=++Thanks+for+visiting+me+!;Have+a+nice+day+!)](https://git.io/typing-svg)
+  > 💬 *"The best way to predict the future is to create it with your own hands."*  
+  > — Ayman
+
 
 
 </div>
