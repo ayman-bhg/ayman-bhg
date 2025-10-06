@@ -79,7 +79,7 @@
 
 
   <!-- ✨ Outro Section -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C0FF&width=600&lines=Thanks+for+visiting+!;Have+a+nice+day!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C0FF&width=600&lines=++Thanks+for+visiting+me+!;Have+a+nice+day+!)](https://git.io/typing-svg)
 
 
 </div>
