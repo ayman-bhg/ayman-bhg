@@ -63,9 +63,6 @@
 ### 📊 GitHub Stats :
 <div align="center">
 
-  [![roadmap.sh](https://roadmap.sh/card/wide/68e1111b1d72874d100f0301?variant=dark)](https://roadmap.sh)
-  
-  ![Ayman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayman-bhg&show_icons=true&theme=transparent)
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayman-bhg&layout=compact&theme=tokyonight)
 
