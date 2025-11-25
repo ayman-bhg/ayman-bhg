@@ -15,7 +15,7 @@
 
 ###
 <hr>
-<p align="left">I'm <b> Ayman </b> — crafting the web from <b> Morocco </b> <br><br>- 🔭 Fullstack developer <br>- 📚 Currently learning: React.js & Tailwind CSS<br>- ⚡ In my free time i keep working <br>- 🎯 Build digital experiences that are both functional and beautiful <br> - ⚡ Fun fact: I debug faster with Moroccan mint tea </p>
+<p align="left">I'm <b> Ayman </b> — crafting the web from <b> Morocco </b> <br><br>- 🔭 Fullstack developer <br>- 📚 Currently learning: Laravel & Next.js<br>- ⚡ In my free time i keep working <br>- 🎯 Build digital experiences that are both functional and beautiful <br> - ⚡ Fun fact: I debug faster with Moroccan mint tea </p>
 
 ### <hr>
 
