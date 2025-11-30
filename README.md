@@ -62,6 +62,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="laravel logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="typescript logo"  />
+  <img width="12" />
 </div>
 <hr>
 
