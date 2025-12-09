@@ -1,5 +1,5 @@
 <p align="right">
-  <img style="display:block;margin:auto" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C0FF&width=600&lines=Hey+I'm+Ayman+!;web+Full+Stack+Developer;react+%7C+Tailwind+%7C+Node.js;"/>
+  <img style="display:block;margin:auto" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C0FF&width=600&lines=Hey+I'm+Ayman+!;web+Full+Stack+Developer;react+%7C+Tailwind+%7C+Next.js;"/>
 </p>
 
 
