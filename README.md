@@ -71,7 +71,8 @@
 <div align="center">
 
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayman-bhg&layout=compact&theme=tokyonight)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayman-bhg&layout=compact&theme=radical)
+
 
  
   
