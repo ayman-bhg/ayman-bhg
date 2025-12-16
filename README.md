@@ -64,6 +64,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="typescript logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
+  <img width="12" />
 </div>
 <hr>
 
