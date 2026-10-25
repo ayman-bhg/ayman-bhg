@@ -1,91 +1,133 @@
-<p align="right">
-  <img style="display:block;margin:auto" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C0FF&width=600&lines=Hey+I'm+Ayman+!;web+Full+Stack+Developer;React+%7C+Tailwind+%7C+Next.js;"/>
+
+<div align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00C0FF&center=true&vCenter=true&width=750&lines=Hey%2C+I'm+Ayman!;3rd-Year+IT+Engineering+Student;From+Full-Stack+Development+to+AI+%26+Data;Building+Today%2C+Engineering+Tomorrow." alt="Typing SVG" />
+
+</div>
+
+<br>
+
+<h3 align="left">About Me</h3>
+<hr>
+
+<p align="left">
+I'm <b>Ayman</b>, a 3rd-year <b>IT Engineering student</b> based in <b>Morocco</b>, with a background in <b>Full-Stack Web Development</b> and a growing focus on <b>Artificial Intelligence & Data Science</b>.
 </p>
 
+<p align="left">
+My journey into technology began with web development, where I learned to transform ideas into functional applications. Today, I'm expanding my knowledge beyond the web, exploring software engineering, intelligent systems, and data-driven technologies.
+</p>
 
+<p align="left">
 
+- 🎓 Currently pursuing my 3rd year in IT Engineering.
+- 💻 Background in Full-Stack Web Development.
+- 🧠 Exploring Artificial Intelligence, Data Science & Software Engineering.
+- ⚙️ Interested in building scalable applications and intelligent systems.
+- 📚 Continuously learning, experimenting, and improving my technical skills.
+- 🎯 Goal: Combine software engineering with AI to build meaningful solutions.
+- ☕ Fun fact: I debug faster with Moroccan mint tea.
 
-<!-- 
- ![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:0077FF,100:00C0FF&height=120&section=header&text=Welcome%20to%20my%20Profile!%20🌊&fontSize=25&fontColor=fff&animation=twinkling)
+</p>
 
--->
+<br>
 
-###
-<h3 align="left">👨‍💻  About Me </h3>
-
-###
+<h3 align="left">Connect With Me</h3>
 <hr>
-<p align="left">I'm <b> Ayman </b> — crafting the web from <b> Morocco </b> <br><br>- 🔭 Fullstack developer  </br> - ⚡ In my free time i keep working <br>- 🎯 Build digital experiences that are both functional and beautiful <br> - ⚡ Fun fact: I debug faster with Moroccan mint tea </p>
-
-### <hr>
-
-### 🌐 Socials:
-
 
 <div align="center">
 
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ayman_bhg)
-  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/ayman.bhg)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayman.bhg1@email.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-boughlough/) 
-  
+  <a href="https://instagram.com/ayman_bhg">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://facebook.com/ayman.bhg">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
+  <a href="mailto:ayman.bhg1@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/ayman-boughlough/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
 </div>
 
+<br>
 
-###
+<h3 align="left">Languages & Technologies</h3>
 <hr>
 
-###
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Programming Languages</h4>
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />   
-  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=jquery" height="60" alt="jquery logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,php" height="55" />
 </div>
+
+<h4 align="left">Web Development</h4>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,nextjs,laravel" height="55" />
+</div>
+
+<h4 align="left">Databases & Tools</h4>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,linux" height="55" />
+</div>
+
+<h4 align="left">AI & Data Science</h4>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,anaconda" height="55" />
+</div>
+
+<br>
+
+<h3 align="left">My Engineering Journey</h3>
 <hr>
 
+<p align="center">
+  <b>Full-Stack Development</b>
+  <br>
+  ↓
+  <br>
+  <b>IT Engineering</b>
+  <br>
+  ↓
+  <br>
+  <b>Artificial Intelligence & Data Science</b>
+  <br>
+  ↓
+  <br>
+  <b>What's Next? Always Learning.</b>
+</p>
 
+<br>
 
+<h3 align="left">GitHub Statistics</h3>
+<hr>
 
- 
-  
-  
+<div align="center">
 
+  <img src="https://github-readme-stats.vercel.app/api?username=ayman-bhg&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats" />
 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayman-bhg&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages" />
 
+</div>
 
-<div align="left">
+<br>
 
+<hr>
 
+<div align="center">
 
-  > 💬 *"The best way to predict the future is to create it with your own hands."*  
-  > — Ayman
+  <i>"Knowledge has no limits, and neither should our curiosity."</i>
 
+  <br><br>
 
+  <b>— Ayman</b>
 
 </div>
